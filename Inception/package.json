@@ -1,0 +1,14 @@
+{
+  "name": "namastereact",
+  "version": "1.0.0",
+  "description": "Namaste React",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Atul Garg",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.10.3"
+  }
+}
